@@ -18,6 +18,11 @@
 1. unmodified
 2. modified
 3. staged
+* add the file
+* edit the file
+* stage the file
+* remove the file
+* commit
 
 ## GIT의 영역
 ### * Working Directory
@@ -45,6 +50,11 @@
 4. chore - 코드 외의 설정을 바꾼 경우
 5. docs - 문서화
 6. test - 테스트 코드
+## * 로컬에서의 버전 관리
+***
+
+## Github에 올릴 때 주의할 점
+- GIthubdp Remote Repository를 만들고 Local Repository와 연결해야한다 
 
 
 <https://github.com/doriyaap/doriyaap>
